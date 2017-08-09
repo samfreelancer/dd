@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1">
+ 
+  <form id="VDOMAINS">
+    <field name="domain">
+      <prompt>
+        What domain do you want to call?
+      </prompt>
+      <grammar src="domains_grammar.xml#domain" type="application/grammar-xml" />
+      <filled>
+        <prompt>
+          We will call 
+          <!-- <submit next="http://ourUrlInWeb" namelist="domain session.callerid" method = "get" /> -->
+        </prompt>
+        <if cond="domain == 'moneytreeleadsystems.com'" >
+          <prompt> moneytreeleadsystems dot com </prompt>
+        </if>
+      </filled>
+      <noinput>
+        <prompt>
+          We did not hear anything.
+        </prompt>
+      </noinput>
+      <nomatch>
+        <prompt>
+          We do not have the domain registered.
+        </prompt>
+      </nomatch>
+    </field>
+    <transfer dest="tel:+14178814949" bridge="true" cond="domain == 'moneytreeleadsystems.com'">
+      
+    </transfer>
+
+  </form>
+</vxml>

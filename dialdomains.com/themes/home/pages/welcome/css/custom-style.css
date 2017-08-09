@@ -1,0 +1,39 @@
+.panel-heading {
+    padding: 5px 15px;
+    background: blue;
+}
+ 
+.panel-footer {
+	padding: 1px 15px;
+	color: #A0A0A0;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+.nav-tabs .active * {color: #ea0000 !important;}
+
+.orange {
+background: #fe6f20;
+}
+.purple {
+background: #7977c2;
+}
+.gray {
+background: #4d4e53;
+}
+.red {
+background: #f22836;
+}
+.green {
+background: #71c633;
+}
+.blue {
+background: #00A8E1;
+}

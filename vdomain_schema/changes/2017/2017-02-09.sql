@@ -1,0 +1,1 @@
+ALTER TABLE `domain` MODIFY `paid` DECIMAL(15,2) NOT NULL;

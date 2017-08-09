@@ -1,0 +1,10 @@
+Options -Indexes
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+RewriteRule ^(cache|cron|includes|logs|temp|uploads|controllers|models|views)/.*$ 403.php
+RewriteRule ^config\.php.*$ 403.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?REQUEST=$1 [L,QSA]

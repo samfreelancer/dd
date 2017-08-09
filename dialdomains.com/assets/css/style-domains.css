@@ -1,0 +1,8 @@
+.whole-cell-huge-input{
+  width: 100% !important;
+  height: 40px !important;
+}
+
+.selectReadingsForm .icon-ok-circle,.selectReadingsForm .icon-minus-sign{
+  margin-right: 2px;
+} 

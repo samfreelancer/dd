@@ -1,0 +1,147 @@
+	html,body{height: 100% ;}
+.site{
+	text-align:center; height:100%;
+
+}
+.site *{
+	#font-family: 'Open Sans Condensed', sans-serif;
+	text-shadow: none ;
+
+}	
+
+.site ul li i{
+	display: inline;
+}
+.site ul li{
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;
+	color: #fff;
+	padding: 4px 10px 0px 10px;
+}
+.middle{
+	min-height:70%;
+}
+
+.top_bar{
+	background-color: #444 ;
+	background: none repeat scroll 0 0 #242424;
+	min-height: 30px;
+}
+
+
+.site .dial-logo{
+  #font-family: 'Lato' !important;
+font-size: 20px;
+color: #fff;
+}
+
+
+.site ._navigation ul li{
+	color: black !important;
+}
+._footer{
+		height: 25%;
+}
+._footer .links{
+	background: #444;
+	background: none repeat scroll 0 0 #242424;	
+	height: 200%;
+	color: #fff;
+
+}
+._footer .sources{
+	height: 100%;
+	color: black;
+	margin-top: 50px;
+}
+
+.site .jumbotron{
+	font-weight: bold;
+}
+
+.site .nav a{
+	color: #fff;
+	font-weight: bold;
+}
+
+.site .nav a:hover{
+	background:none;
+}
+.site .list-group-item .active{
+	background: #27A9E3 !important;
+}
+
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+background: #27A9E3;
+font-weight: bold;
+color: #fff;
+}
+
+.op{
+	font-weight: bold;
+	color: black;
+	text-align: left;
+}
+a.list-group-item {
+color: #337ab7;	
+}
+a.list-group-item .list-group-item-heading {
+color: #333;
+font-weight: bold;
+font-size: 1.2em;
+}
+
+
+
+/*____*/
+.orange2 {
+background: #fe6f20;
+}
+.purpl2 {
+background: #7977c2;
+}
+.gray2 {
+background: #4d4e53;
+}
+.re2 {
+background: #f22836;
+}
+.green2 {
+background: #71c633;
+}
+.blue2 {
+background: #00A8E1;
+}
+
+/*Panels*/
+.green{background: #71c633;}
+.blue{background: #27A9E3;}
+.red{background: #CE0303;}
+/*Promotion*/
+.green-text{color: #71c633;}
+.blue-text{color: #27A9E3;}
+.red-text{color: #CE0303;}
+
+
+
+/*Dials*/
+.g{
+  color: #59c01a;
+}
+.b{
+  color: #0687ec;
+}
+.r{
+  color: #cf4022;
+}
+.y{
+  color: #ffba0f;
+}
+
+.content{
+min-height:800px;
+text-align:center;
+}
+
+.content .row{margin: 0px;}

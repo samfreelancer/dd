@@ -1,0 +1,3 @@
+ALTER TABLE transactionItems MODIFY transaction_id BIGINT DEFAULT NULL;
+ALTER TABLE transactions MODIFY original_trans BIGINT DEFAULT NULL;
+ALTER TABLE domain MODIFY orderid BIGINT DEFAULT NULL;

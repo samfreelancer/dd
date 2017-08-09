@@ -1,0 +1,105 @@
+------------------------------------------------------------------------
+r169 | sameer | 2017-03-07 00:20:57 +0530 (Tue, 07 Mar 2017)
+Changed paths:
+   A /vdomain_schema/changes/2017/2017-02-23.sql
+   A /vdomain_schema/changes/2017/2017-03-02.sql
+   A /vdomain_schema/changes/2017/2017-03-03.sql
+------------------------------------------------------------------------
+r163 | sameer | 2017-02-17 00:52:49 +0530 (Fri, 17 Feb 2017)
+Changed paths:
+   A /vdomain_schema/changes/2017/2017-02-08.sql
+   A /vdomain_schema/changes/2017/2017-02-09.sql
+   A /vdomain_schema/changes/2017/2017-02-12.sql
+------------------------------------------------------------------------
+r159 | sameer | 2017-02-04 00:46:19 +0530 (Sat, 04 Feb 2017)
+Changed paths:
+   M /dialdomains.com/controllers/account/defaultController.class.php
+   M /dialdomains.com/models/transactionItems.class.php
+   A /vdomain_schema/changes/2017/2017-02-03.sql
+------------------------------------------------------------------------
+r156 | sameer | 2017-02-03 00:27:46 +0530 (Fri, 03 Feb 2017)
+Changed paths:
+   M /dialdomains.com/config.php
+   M /dialdomains.com/controllers/account/defaultController.class.php
+   M /dialdomains.com/includes/classes/AuthnetAIM.class.php
+   M /dialdomains.com/includes/libraries/name/nameComApi.class.php
+   M /dialdomains.com/models/cart.class.php
+   M /vdomain_schema/changes/2017/2017-01-19.sql
+   A /vdomain_schema/changes/2017/2017-02-02.sql
+------------------------------------------------------------------------
+r151 | sameer | 2017-01-20 00:26:04 +0530 (Fri, 20 Jan 2017)
+Changed paths:
+   M /dialdomains.com/config.php
+   M /dialdomains.com/controllers/account/defaultController.class.php
+   M /dialdomains.com/controllers/public/defaultController.class.php
+   M /dialdomains.com/includes/classes/adfModelBase.class.php
+   M /dialdomains.com/includes/classes/adfRouterCollection.class.php
+   M /dialdomains.com/includes/functions.php
+   M /dialdomains.com/models/cart.class.php
+   A /dialdomains.com/models/cartItems.class.php
+   M /dialdomains.com/themes/metronic/pages/test/assets/js/domains.js
+   M /dialdomains.com/themes/metronic/pages/test/header.php
+   M /dialdomains.com/themes/metronic/pages/test/search_domain.php
+   A /vdomain_schema/changes/2017
+   A /vdomain_schema/changes/2017/2017-01-19.sql
+------------------------------------------------------------------------
+r133 | dileep.kumar | 2015-10-07 07:54:06 +0530 (Wed, 07 Oct 2015)
+Changed paths:
+   M /vdomain_schema/changes/2015/2015_04_28.sql
+------------------------------------------------------------------------
+r120 | benjamin | 2015-08-25 02:33:05 +0530 (Tue, 25 Aug 2015)
+Changed paths:
+   A /vdomain_schema/db/dial_master.sql.bz2
+   D /vdomain_schema/db/netovations.sql.bz2
+------------------------------------------------------------------------
+r118 | anna.savinova | 2015-04-28 21:04:30 +0530 (Tue, 28 Apr 2015)
+Changed paths:
+   A /vdomain_schema/changes/2015/2015_04_28.sql
+------------------------------------------------------------------------
+r113 | anna.savinova | 2015-04-21 21:45:54 +0530 (Tue, 21 Apr 2015)
+Changed paths:
+   M /dialdomains.com/controllers/account/defaultController.class.php
+   M /dialdomains.com/controllers/public/defaultController.class.php
+   A /dialdomains.com/models/cart.class.php
+   M /dialdomains.com/themes/metronic/pages/test/assets/css/style.css
+   M /dialdomains.com/themes/metronic/pages/test/searchDomain.php
+   M /dialdomains.com/themes/metronic/pages/test/shopping_cart.php
+   A /vdomain_schema/changes/2015/2015_04_01.sql
+------------------------------------------------------------------------
+r70 | cortell.davis | 2015-02-12 01:18:07 +0530 (Thu, 12 Feb 2015)
+Changed paths:
+   A /vdomain_schema/changes/2015
+   A /vdomain_schema/changes/2015/2015_02_11.sq
+------------------------------------------------------------------------
+r27 | benjamin | 2015-01-13 02:07:23 +0530 (Tue, 13 Jan 2015)
+Changed paths:
+   M /vdomain_schema
+   M /vdomain_schema/db/netovations.sql.bz2
+------------------------------------------------------------------------
+r22 | piotr | 2014-10-08 22:43:16 +0530 (Wed, 08 Oct 2014)
+Changed paths:
+   A /vdomain_schema/changes/2014/2014_10_08.sql
+------------------------------------------------------------------------
+r15 | piotr | 2014-09-23 22:43:55 +0530 (Tue, 23 Sep 2014)
+Changed paths:
+   M /vdomain_schema/db/netovations.sql.bz2
+------------------------------------------------------------------------
+r13 | piotr | 2014-06-25 23:35:20 +0530 (Wed, 25 Jun 2014)
+Changed paths:
+   A /vdomain_schema/changes/2014/2014_06_25.sql
+------------------------------------------------------------------------
+r11 | piotr | 2014-06-24 00:14:54 +0530 (Tue, 24 Jun 2014)
+Changed paths:
+   A /vdomain_schema/changes
+   A /vdomain_schema/changes/2014
+   A /vdomain_schema/changes/2014/2014_06_23.sql
+------------------------------------------------------------------------
+r5 | benjamin | 2014-06-09 21:21:30 +0530 (Mon, 09 Jun 2014)
+Changed paths:
+   A /vdomain_schema/db
+   A /vdomain_schema/db/netovations.sql.bz2
+------------------------------------------------------------------------
+r2 | benjamin | 2014-03-26 20:26:16 +0530 (Wed, 26 Mar 2014)
+Changed paths:
+   A /vdomain_schema
+------------------------------------------------------------------------

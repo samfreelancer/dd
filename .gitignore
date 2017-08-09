@@ -1,0 +1,9 @@
+.svn
+.svn/*
+dialdomains.com/.buildpath
+dialdomains.com/cache/*
+dialdomains.com/_private/*
+dialdomains.com/.project
+dialdomains.com/.settings
+dialdomains.com/tmp/*
+

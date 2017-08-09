@@ -1,0 +1,4 @@
+- make last part of url optional only if it was registered first (.com and .net versions etc)
+- give higher priority to domains registered first if there is something with the same metaphone
+- regenerate grammar only when needed
+- when is <noinput> called? Can we control the time? 

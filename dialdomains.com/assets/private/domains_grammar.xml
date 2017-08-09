@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><grammar xmlns="http://www.w3.org/2001/06/grammar"
+         version="1.0" 
+         mode="voice" 
+         xml:lang="en"
+         type="application/srgs+xml" 
+         tag-format="semantics/1.0" 
+         root="domain">
+  <rule id="domain">
+      <one-of>
+        <item repeat="0-1">
+          h t t p
+        </item>
+        <item repeat="0-1">
+          h t t p s
+        </item>
+      </one-of>
+    <item repeat="0-1">
+      w w w
+    </item>
+    <one-of>
+            <item>
+        <one-of>
+                  </one-of>
+        <tag>out.domain = "neverbackdown.org";</tag>
+        <tag>out.phone = "+19654441545";</tag>
+      </item>
+            <item>
+        <one-of>
+                  </one-of>
+        <tag>out.domain = "facebook.org";</tag>
+        <tag>out.phone = "+19654441545";</tag>
+      </item>
+            <item>
+        <one-of>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    biz                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bizz                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                baize                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bis                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    boza                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bios                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bozo                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    buzz                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    baze                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bias                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                booze                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bazoo                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                buaze                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                beisa                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                beice                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                boozy                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bezzo                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bozze                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bezzi                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                biose                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                buzzy                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bus                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bes                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bas                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bassie                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bees                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bose                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    busy                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    Bois                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    boss                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    boce                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    Bais                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    bass                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    base                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    Bice                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    besa                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    buss                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bussu                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bouse                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bousy                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                besee                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                boose                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                basso                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                boosy                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bossy                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    Bos                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                Bassia                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                Bessie                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                <item repeat="0-1">
+                    Bess                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                bo                                                                                <item repeat="0-1">
+                    Z                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                by                                                                                <item repeat="0-1">
+                    Z                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                be                                                                                <item repeat="0-1">
+                    Z                  </item>
+                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                Bassa                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                Bessi                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                Boyce                                                          </item>
+                      <item>
+                                                face                                                                                book                                                  <item repeat="0-1">
+                    dot                  </item>
+                                                                Bessy                                                          </item>
+                  </one-of>
+        <tag>out.domain = "facebook.biz";</tag>
+        <tag>out.phone = "+19654441545";</tag>
+      </item>
+          </one-of>
+  </rule>
+</grammar>
